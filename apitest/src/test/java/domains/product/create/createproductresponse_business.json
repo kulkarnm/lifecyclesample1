@@ -1,0 +1,10 @@
+{
+  "productId": "#ignore",
+  "productName": "Colgate 300 gms",
+  "categoryId" : "#ignore",
+  "subCategoryId": "#ignore",
+  "purchasePrice":200.0,
+  "mrp":240.0,
+  "productStatus":"PRODUCT_REGISTERED",
+  "productPurchaseBudgetedAmount":0.0
+}

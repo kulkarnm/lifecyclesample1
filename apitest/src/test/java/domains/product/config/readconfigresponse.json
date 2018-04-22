@@ -1,0 +1,12 @@
+{
+  "productId" : "#notnull",
+  "pricingStrategyType" : "DEFAULT_PRICING_STRATEGY",
+  "pricingOptions" : "MANUAL_PRICE_INPUT",
+  "costHeaderTypes" : [
+    "PURCHASE_PRICE_PER_UNIT",
+      "FIXED_EXPENSE_PER_UNIT",
+      "VARIABLE_EXPENSE_PER_UNIT",
+      "TAX_PER_UNIT"
+  ],
+  "contingencyStockPercentage" : 0.1
+}
